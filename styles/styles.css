@@ -1,0 +1,10 @@
+body{
+    background-color:cornflowerblue;
+}
+
+/* this is a comment in CSS */
+
+/* to target all paragraphs, make a rule for p */
+p{
+    color:hotpink; /* "color" means text color */
+}
